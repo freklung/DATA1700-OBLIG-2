@@ -1,0 +1,25 @@
+label{
+    display: inline;
+}
+
+input{
+    margin-bottom: 5px;
+}
+
+button{
+    margin-bottom: 1vh;
+}
+
+p {
+    margin-bottom:  1em; /* Adjust as needed */
+}
+
+#antall{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    max-width: 20px;
+}
+
+.feilinput{
+    color: red;
+}
