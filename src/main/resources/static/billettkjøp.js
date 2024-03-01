@@ -95,6 +95,7 @@ document.addEventListener("DOMContentLoaded", function (){
             if (inputFelt >= 0){
                 feilMld.textContent = "Du må velge antall billetter";
             }
+
         });
     }
 
